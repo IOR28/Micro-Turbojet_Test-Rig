@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/debug/Thrust_Flow.X.debug.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>16384</length>                 
+      <used>4050</used>                     
+      <free>12334</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>2048</length>                 
+      <used>65</used>                     
+      <free>1983</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 

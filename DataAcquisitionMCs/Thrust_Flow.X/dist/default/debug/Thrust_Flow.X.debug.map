@@ -1,0 +1,1480 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3.o)
+                              build/default/debug/loadcell.o (__subsf3)
+c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o)
+                              c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3.o) (__addsf3x)
+c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(cmpsf2.o)
+                              build/default/debug/flowmeter.o (__ltsf2)
+c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3.o)
+                              build/default/debug/flowmeter.o (__divsf3)
+c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3x.o)
+                              c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3.o) (__divsf3x)
+c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(floatsisf.o)
+                              build/default/debug/flowmeter.o (__floatunsisf)
+c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_cmp.o)
+                              c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(cmpsf2.o) (__fp_cmp)
+c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_inf.o)
+                              c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o) (__fp_inf)
+c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_nan.o)
+                              c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o) (__fp_nan)
+c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscA.o)
+                              c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o) (__fp_pscA)
+c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscB.o)
+                              c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o) (__fp_pscB)
+c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_round.o)
+                              c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3.o) (__fp_round)
+c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_split3.o)
+                              c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o) (__fp_split3)
+c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_zero.o)
+                              c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o) (__fp_zero)
+c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3.o)
+                              build/default/debug/flowmeter.o (__mulsf3)
+c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3x.o)
+                              c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3.o) (__mulsf3x)
+c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+                              C:/Users/rtavi/.mchp_packs/Microchip/ATtiny_DFP/2.6.122/xc8/avr/lib/avrxmega3/crtattiny1627.o (exit)
+c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+                              build/default/debug/mcc_generated_files/src/tca0.o (__do_copy_data)
+
+Allocating common symbols
+Common symbol       size              file
+
+reg                 0x1               build/default/debug/i2c_ThrustFlow.o
+I2C0_BusErrorInterruptHandler
+                    0x2               build/default/debug/mcc_generated_files/src/twi0_slave.o
+I2C0_CollisionInterruptHandler
+                    0x2               build/default/debug/mcc_generated_files/src/twi0_slave.o
+flow                0x4               build/default/debug/flowmeter.o
+I2C0_AddressInterruptHandler
+                    0x2               build/default/debug/mcc_generated_files/src/twi0_slave.o
+freq                0x4               build/default/debug/flowmeter.o
+I2C0_ReadInterruptHandler
+                    0x2               build/default/debug/mcc_generated_files/src/twi0_slave.o
+flag                0x2               build/default/debug/flowmeter.o
+temp                0x2               build/default/debug/i2c_ThrustFlow.o
+done                0x2               build/default/debug/flowmeter.o
+I2C0_StopInterruptHandler
+                    0x2               build/default/debug/mcc_generated_files/src/twi0_slave.o
+pulses              0x2               build/default/debug/flowmeter.o
+Vref                0x4               build/default/debug/mcc_generated_files/mcc.o
+Flow                0x4               build/default/debug/mcc_generated_files/src/twi0_slave.o
+I2C0_WriteInterruptHandler
+                    0x2               build/default/debug/mcc_generated_files/src/twi0_slave.o
+Thrust              0x4               build/default/debug/mcc_generated_files/src/twi0_slave.o
+PRELOAD             0x4               build/default/debug/mcc_generated_files/mcc.o
+start               0x2               build/default/debug/flowmeter.o
+stop                0x2               build/default/debug/flowmeter.o
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 C:/Users/rtavi/.mchp_packs/Microchip/ATtiny_DFP/2.6.122/xc8/avr/lib/avrxmega3/crtattiny1627.o
+ .bss           0x0000000000000000        0x0 C:/Users/rtavi/.mchp_packs/Microchip/ATtiny_DFP/2.6.122/xc8/avr/lib/avrxmega3/crtattiny1627.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/cpuint.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/cpuint.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/cpuint.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTC_PC3_DefaultInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA4_DefaultInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA6_DefaultInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA5_DefaultInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTC_PC2_DefaultInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTC_PC3_SetInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA4_SetInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTB_PB4_SetInterruptHandler
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA6_SetInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTA_PA5_SetInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTC_PC2_SetInterruptHandler
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTB_PB1_SetInterruptHandler
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text.PORTB_PB0_SetInterruptHandler
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/pin_manager.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/protected_io.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/protected_io.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/protected_io.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/tcb0.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/tcb0.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/tcb0.o
+ .text.TCB0_ReadTimer
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/tcb0.o
+ .text.TCB0_EnableCaptInterrupt
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/tcb0.o
+ .text.TCB0_EnableOvfInterrupt
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/tcb0.o
+ .text.TCB0_DisableCaptInterrupt
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/tcb0.o
+ .text.TCB0_DisableOvfInterrupt
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/tcb0.o
+ .text.TCB0_ClearCaptInterruptFlag
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/tcb0.o
+ .text.TCB0_ClearOvfInterruptFlag
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/tcb0.o
+ .text.TCB0_IsCaptInterruptEnabled
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/tcb0.o
+ .text.TCB0_IsOvfInterruptEnabled
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/tcb0.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/tca0.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/tca0.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_SetOVFIsrCallback
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_SetCMP0IsrCallback
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_SetCMP1IsrCallback
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_SetCMP2IsrCallback
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_WriteTimer
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_ReadTimer
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_EnableInterrupt
+                0x0000000000000000        0x8 build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_DisableInterrupt
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_ClearOverflowInterruptFlag
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_IsOverflowInterruptEnabled
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_ClearCMP0InterruptFlag
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_IsCMP0InterruptEnabled
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_ClearCMP1InterruptFlag
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_IsCMP1InterruptEnabled
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_ClearCMP2InterruptFlag
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/tca0.o
+ .text.TCA0_IsCMP2InterruptEnabled
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/tca0.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_SendAck
+                0x0000000000000000        0x8 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_SendNack
+                0x0000000000000000        0x8 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_SetReadCallback
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_SetWriteCallback
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_SetAddressCallback
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_SetStopCallback
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_CollisionCallback
+                0x0000000000000000       0x10 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_SetCollisionCallback
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_BusErrorCallback
+                0x0000000000000000       0x10 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_SetBusErrorCallback
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_SlaveOpen
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_Open
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_Enable
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_SlaveClose
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_Close
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_SlaveIsBusCollision
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_SlaveIsBusError
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_SlaveSendAck
+                0x0000000000000000        0x8 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_SlaveSendNack
+                0x0000000000000000        0x8 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text.I2C0_SlaveRead
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/adc0.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/adc0.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/adc0.o
+ .text.ADC0_Enable
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/adc0.o
+ .text.ADC0_Disable
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/adc0.o
+ .text.ADC0_SetWindowHigh
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/adc0.o
+ .text.ADC0_SetWindowLow
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/adc0.o
+ .text.ADC0_SetWindowMode
+                0x0000000000000000        0x6 build/default/debug/mcc_generated_files/src/adc0.o
+ .text.ADC0_StartConversion
+                0x0000000000000000        0xe build/default/debug/mcc_generated_files/src/adc0.o
+ .text.ADC0_StopConversion
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/adc0.o
+ .text.ADC0_GetConversionResult
+                0x0000000000000000       0x12 build/default/debug/mcc_generated_files/src/adc0.o
+ .text.ADC0_GetConversionSample
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/adc0.o
+ .text.ADC0_GetWindowResult
+                0x0000000000000000       0x12 build/default/debug/mcc_generated_files/src/adc0.o
+ .text.ADC0_GetConversion
+                0x0000000000000000       0x28 build/default/debug/mcc_generated_files/src/adc0.o
+ .text.ADC0_GetResolution
+                0x0000000000000000        0x8 build/default/debug/mcc_generated_files/src/adc0.o
+ .text.ADC0_RegisterWindowCallback
+                0x0000000000000000        0xa build/default/debug/mcc_generated_files/src/adc0.o
+ .text.ADC0_PGA_enable
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/adc0.o
+ .text.ADC0_PGA_disable
+                0x0000000000000000        0xc build/default/debug/mcc_generated_files/src/adc0.o
+ .text.ADC0_PGA_Gain_Setting
+                0x0000000000000000        0xe build/default/debug/mcc_generated_files/src/adc0.o
+ .text.ADC0_PGA_Bias_Select
+                0x0000000000000000        0xe build/default/debug/mcc_generated_files/src/adc0.o
+ .text.ADC0_PGA_Sample_Duration
+                0x0000000000000000        0xe build/default/debug/mcc_generated_files/src/adc0.o
+ .bss.ADC0_window_cb
+                0x0000000000000000        0x2 build/default/debug/mcc_generated_files/src/adc0.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/vref.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/vref.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/src/vref.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/device_config.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/device_config.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/device_config.o
+ .text          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/mcc.o
+ .data          0x0000000000000000        0x0 build/default/debug/mcc_generated_files/mcc.o
+ .bss           0x0000000000000000        0x0 build/default/debug/mcc_generated_files/mcc.o
+ .text.WDT_Initialize
+                0x0000000000000000        0x4 build/default/debug/mcc_generated_files/mcc.o
+ .text          0x0000000000000000        0x0 build/default/debug/main.o
+ .data          0x0000000000000000        0x0 build/default/debug/main.o
+ .bss           0x0000000000000000        0x0 build/default/debug/main.o
+ .text          0x0000000000000000        0x0 build/default/debug/flowmeter.o
+ .data          0x0000000000000000        0x0 build/default/debug/flowmeter.o
+ .bss           0x0000000000000000        0x0 build/default/debug/flowmeter.o
+ .text.count    0x0000000000000000       0x6e build/default/debug/flowmeter.o
+ .text.set_flag
+                0x0000000000000000       0x40 build/default/debug/flowmeter.o
+ .text.get_freq
+                0x0000000000000000       0x12 build/default/debug/flowmeter.o
+ .text.get_count
+                0x0000000000000000        0xa build/default/debug/flowmeter.o
+ .rodata.TCB0_freq
+                0x0000000000000000        0x4 build/default/debug/flowmeter.o
+ .text          0x0000000000000000        0x0 build/default/debug/i2c_ThrustFlow.o
+ .data          0x0000000000000000        0x0 build/default/debug/i2c_ThrustFlow.o
+ .bss           0x0000000000000000        0x0 build/default/debug/i2c_ThrustFlow.o
+ .text          0x0000000000000000        0x0 build/default/debug/loadcell.o
+ .data          0x0000000000000000        0x0 build/default/debug/loadcell.o
+ .bss           0x0000000000000000        0x0 build/default/debug/loadcell.o
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3.o)
+ .stack.descriptors
+                0x0000000000000000       0x2c c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(cmpsf2.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(cmpsf2.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(cmpsf2.o)
+ .stack.descriptors
+                0x0000000000000000       0x6a c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(cmpsf2.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3x.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3x.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3x.o)
+ .stack.descriptors
+                0x0000000000000000       0x31 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3x.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(floatsisf.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(floatsisf.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(floatsisf.o)
+ .stack.descriptors
+                0x0000000000000000       0x34 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(floatsisf.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_cmp.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_cmp.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_cmp.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_cmp.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_inf.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_inf.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_inf.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_inf.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_nan.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_nan.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_nan.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_nan.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscA.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscA.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscA.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscA.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscB.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscB.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscB.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscB.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_round.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_round.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_round.o)
+ .stack.descriptors
+                0x0000000000000000       0x18 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_round.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_split3.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_split3.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_split3.o)
+ .stack.descriptors
+                0x0000000000000000       0x32 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_split3.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_zero.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_zero.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_zero.o)
+ .stack.descriptors
+                0x0000000000000000       0x2f c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_zero.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3x.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3x.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3x.o)
+ .stack.descriptors
+                0x0000000000000000       0x31 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3x.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000004000 xr
+data             0x0000000000803800 0x0000000000000800 rw !x
+eeprom           0x0000000000810000 0x0000000000000100 rw !x
+fuse             0x0000000000820000 0x000000000000000a rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x803800
+                0x0000000000008000                __RODATA_PM_OFFSET__ = 0x8000
+LOAD C:/Users/rtavi/.mchp_packs/Microchip/ATtiny_DFP/2.6.122/xc8/avr/lib/avrxmega3/crtattiny1627.o
+                0x0000000000000001                __MPLAB_BUILD = 0x1
+LOAD build/default/debug/mcc_generated_files/src/cpuint.o
+LOAD build/default/debug/mcc_generated_files/src/pin_manager.o
+LOAD build/default/debug/mcc_generated_files/src/protected_io.o
+LOAD build/default/debug/mcc_generated_files/src/tcb0.o
+LOAD build/default/debug/mcc_generated_files/src/tca0.o
+LOAD build/default/debug/mcc_generated_files/src/twi0_slave.o
+LOAD build/default/debug/mcc_generated_files/src/adc0.o
+LOAD build/default/debug/mcc_generated_files/src/vref.o
+LOAD build/default/debug/mcc_generated_files/device_config.o
+LOAD build/default/debug/mcc_generated_files/mcc.o
+LOAD build/default/debug/main.o
+LOAD build/default/debug/flowmeter.o
+LOAD build/default/debug/i2c_ThrustFlow.o
+LOAD build/default/debug/loadcell.o
+START GROUP
+LOAD c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a
+END GROUP
+                0x0000000000000001                __MPLAB_DEBUG = 0x1
+                0x0000000000000001                __DEBUG = 0x1
+START GROUP
+LOAD c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a
+LOAD c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a
+LOAD c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a
+LOAD C:/Users/rtavi/.mchp_packs/Microchip/ATtiny_DFP/2.6.122/xc8/avr/lib/avrxmega3\libattiny1627.a
+END GROUP
+                [0x0000000000000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000803800]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x802000
+                [0x0000000000004000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                [0x0000000000000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000100]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x000000000000000a]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000008000                __RODATA_PM_OFFSET__ = DEFINED (__RODATA_PM_OFFSET__)?__RODATA_PM_OFFSET__:0x8000
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000       0xde
+ *(.vectors)
+ .vectors       0x0000000000000000       0x78 C:/Users/rtavi/.mchp_packs/Microchip/ATtiny_DFP/2.6.122/xc8/avr/lib/avrxmega3/crtattiny1627.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.dinit)
+ .dinit         0x0000000000000078       0x11 data_init
+                0x000000000000008a                . = ALIGN (0x2)
+ *fill*         0x0000000000000089        0x1 
+                0x000000000000008a                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000000000008a        0x0 linker stubs
+ *(.trampolines*)
+                0x000000000000008a                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+                0x000000000000008a                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000000000008a                __ctors_start = .
+ *(.ctors)
+                0x000000000000008a                __ctors_end = .
+                0x000000000000008a                __dtors_start = .
+ *(.dtors)
+                0x000000000000008a                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000000000008a        0x0 C:/Users/rtavi/.mchp_packs/Microchip/ATtiny_DFP/2.6.122/xc8/avr/lib/avrxmega3/crtattiny1627.o
+                0x000000000000008a                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000000000008a        0xc C:/Users/rtavi/.mchp_packs/Microchip/ATtiny_DFP/2.6.122/xc8/avr/lib/avrxmega3/crtattiny1627.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000096       0x3c c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_copy_data.o)
+                0x0000000000000096                __do_copy_data
+                0x00000000000000c4                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000000d2        0x8 C:/Users/rtavi/.mchp_packs/Microchip/ATtiny_DFP/2.6.122/xc8/avr/lib/avrxmega3/crtattiny1627.o
+ *(.init9)
+                0x00000000000000da                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000000da        0x0 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+                0x00000000000000da                _exit
+                0x00000000000000da                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000000da        0x4 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000000000000de                _etext = .
+
+.data           0x0000000000803800        0x0 load address 0x00000000000000de
+                [!provide]                        PROVIDE (__data_start, .)
+ *(.gnu.linkonce.d*)
+                0x0000000000803800                . = ALIGN (0x2)
+                0x0000000000803800                _edata = .
+                [!provide]                        PROVIDE (__data_end, .)
+
+.bss            0x0000000000803800       0x31
+                [!provide]                        PROVIDE (__bss_start, .)
+ *(COMMON)
+ COMMON         0x0000000000803800       0x14 build/default/debug/mcc_generated_files/src/twi0_slave.o
+                0x0000000000803800                I2C0_BusErrorInterruptHandler
+                0x0000000000803802                I2C0_CollisionInterruptHandler
+                0x0000000000803804                I2C0_AddressInterruptHandler
+                0x0000000000803806                I2C0_ReadInterruptHandler
+                0x0000000000803808                I2C0_StopInterruptHandler
+                0x000000000080380a                Flow
+                0x000000000080380e                I2C0_WriteInterruptHandler
+                0x0000000000803810                Thrust
+ COMMON         0x0000000000803814        0x8 build/default/debug/mcc_generated_files/mcc.o
+                0x0000000000803814                Vref
+                0x0000000000803818                PRELOAD
+ COMMON         0x000000000080381c       0x12 build/default/debug/flowmeter.o
+                0x000000000080381c                flow
+                0x0000000000803820                freq
+                0x0000000000803824                flag
+                0x0000000000803826                done
+                0x0000000000803828                pulses
+                0x000000000080382a                start
+                0x000000000080382c                stop
+ COMMON         0x000000000080382e        0x3 build/default/debug/i2c_ThrustFlow.o
+                0x000000000080382e                reg
+                0x000000000080382f                temp
+                [!provide]                        PROVIDE (__bss_end, .)
+                0x00000000000000de                __data_load_start = LOADADDR (.data)
+                0x00000000000000de                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000803831        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000803831                _end = .
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse           0x0000000000820000        0x9
+ *(.fuse)
+ .fuse          0x0000000000820000        0x9 build/default/debug/mcc_generated_files/device_config.o
+                0x0000000000820000                __fuse
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2f
+ *(.comment)
+ .comment       0x0000000000000000       0x2f build/default/debug/mcc_generated_files/src/cpuint.o
+                                         0x30 (size before relaxing)
+ .comment       0x000000000000002f       0x30 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .comment       0x000000000000002f       0x30 build/default/debug/mcc_generated_files/src/tcb0.o
+ .comment       0x000000000000002f       0x30 build/default/debug/mcc_generated_files/src/tca0.o
+ .comment       0x000000000000002f       0x30 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .comment       0x000000000000002f       0x30 build/default/debug/mcc_generated_files/src/adc0.o
+ .comment       0x000000000000002f       0x30 build/default/debug/mcc_generated_files/src/vref.o
+ .comment       0x000000000000002f       0x30 build/default/debug/mcc_generated_files/device_config.o
+ .comment       0x000000000000002f       0x30 build/default/debug/mcc_generated_files/mcc.o
+ .comment       0x000000000000002f       0x30 build/default/debug/main.o
+ .comment       0x000000000000002f       0x30 build/default/debug/flowmeter.o
+ .comment       0x000000000000002f       0x30 build/default/debug/i2c_ThrustFlow.o
+ .comment       0x000000000000002f       0x30 build/default/debug/loadcell.o
+
+.stack.descriptors.hdr
+                0x0000000000000000       0xee
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3.o)
+ .stack.descriptors.hdr
+                0x000000000000000e        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o)
+ .stack.descriptors.hdr
+                0x000000000000001c        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(cmpsf2.o)
+ .stack.descriptors.hdr
+                0x000000000000002a        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3.o)
+ .stack.descriptors.hdr
+                0x0000000000000038        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3x.o)
+ .stack.descriptors.hdr
+                0x0000000000000046        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(floatsisf.o)
+ .stack.descriptors.hdr
+                0x0000000000000054        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_cmp.o)
+ .stack.descriptors.hdr
+                0x0000000000000062        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_inf.o)
+ .stack.descriptors.hdr
+                0x0000000000000070        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_nan.o)
+ .stack.descriptors.hdr
+                0x000000000000007e        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscA.o)
+ .stack.descriptors.hdr
+                0x000000000000008c        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscB.o)
+ .stack.descriptors.hdr
+                0x000000000000009a        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_round.o)
+ .stack.descriptors.hdr
+                0x00000000000000a8        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_split3.o)
+ .stack.descriptors.hdr
+                0x00000000000000b6        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_zero.o)
+ .stack.descriptors.hdr
+                0x00000000000000c4        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3.o)
+ .stack.descriptors.hdr
+                0x00000000000000d2        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3x.o)
+ .stack.descriptors.hdr
+                0x00000000000000e0        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x5c0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 build/default/debug/mcc_generated_files/src/cpuint.o
+ .debug_aranges
+                0x0000000000000020       0xb0 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .debug_aranges
+                0x00000000000000d0       0x20 build/default/debug/mcc_generated_files/src/protected_io.o
+ .debug_aranges
+                0x00000000000000f0       0x70 build/default/debug/mcc_generated_files/src/tcb0.o
+ .debug_aranges
+                0x0000000000000160       0xe0 build/default/debug/mcc_generated_files/src/tca0.o
+ .debug_aranges
+                0x0000000000000240      0x140 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .debug_aranges
+                0x0000000000000380       0xe0 build/default/debug/mcc_generated_files/src/adc0.o
+ .debug_aranges
+                0x0000000000000460       0x20 build/default/debug/mcc_generated_files/src/vref.o
+ .debug_aranges
+                0x0000000000000480       0x18 build/default/debug/mcc_generated_files/device_config.o
+ .debug_aranges
+                0x0000000000000498       0x48 build/default/debug/mcc_generated_files/mcc.o
+ .debug_aranges
+                0x00000000000004e0       0x20 build/default/debug/main.o
+ .debug_aranges
+                0x0000000000000500       0x50 build/default/debug/flowmeter.o
+ .debug_aranges
+                0x0000000000000550       0x38 build/default/debug/i2c_ThrustFlow.o
+ .debug_aranges
+                0x0000000000000588       0x38 build/default/debug/loadcell.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x880a
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x189f C:/Users/rtavi/.mchp_packs/Microchip/ATtiny_DFP/2.6.122/xc8/avr/lib/avrxmega3/crtattiny1627.o
+ .debug_info    0x000000000000189f      0x3c6 build/default/debug/mcc_generated_files/src/cpuint.o
+ .debug_info    0x0000000000001c65      0xba5 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .debug_info    0x000000000000280a       0x79 build/default/debug/mcc_generated_files/src/protected_io.o
+ .debug_info    0x0000000000002883      0x61a build/default/debug/mcc_generated_files/src/tcb0.o
+ .debug_info    0x0000000000002e9d      0xe25 build/default/debug/mcc_generated_files/src/tca0.o
+ .debug_info    0x0000000000003cc2      0xe22 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .debug_info    0x0000000000004ae4     0x124d build/default/debug/mcc_generated_files/src/adc0.o
+ .debug_info    0x0000000000005d31      0x30b build/default/debug/mcc_generated_files/src/vref.o
+ .debug_info    0x000000000000603c      0x7ff build/default/debug/mcc_generated_files/device_config.o
+ .debug_info    0x000000000000683b      0x98b build/default/debug/mcc_generated_files/mcc.o
+ .debug_info    0x00000000000071c6      0x447 build/default/debug/main.o
+ .debug_info    0x000000000000760d      0x6dc build/default/debug/flowmeter.o
+ .debug_info    0x0000000000007ce9      0x366 build/default/debug/i2c_ThrustFlow.o
+ .debug_info    0x000000000000804f      0x7bb build/default/debug/loadcell.o
+
+.debug_abbrev   0x0000000000000000     0x2931
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000     0x1750 C:/Users/rtavi/.mchp_packs/Microchip/ATtiny_DFP/2.6.122/xc8/avr/lib/avrxmega3/crtattiny1627.o
+ .debug_abbrev  0x0000000000001750       0xfa build/default/debug/mcc_generated_files/src/cpuint.o
+ .debug_abbrev  0x000000000000184a      0x190 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .debug_abbrev  0x00000000000019da       0x14 build/default/debug/mcc_generated_files/src/protected_io.o
+ .debug_abbrev  0x00000000000019ee      0x147 build/default/debug/mcc_generated_files/src/tcb0.o
+ .debug_abbrev  0x0000000000001b35      0x19e build/default/debug/mcc_generated_files/src/tca0.o
+ .debug_abbrev  0x0000000000001cd3      0x292 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .debug_abbrev  0x0000000000001f65      0x257 build/default/debug/mcc_generated_files/src/adc0.o
+ .debug_abbrev  0x00000000000021bc       0x8c build/default/debug/mcc_generated_files/src/vref.o
+ .debug_abbrev  0x0000000000002248       0x97 build/default/debug/mcc_generated_files/device_config.o
+ .debug_abbrev  0x00000000000022df      0x192 build/default/debug/mcc_generated_files/mcc.o
+ .debug_abbrev  0x0000000000002471      0x117 build/default/debug/main.o
+ .debug_abbrev  0x0000000000002588      0x19a build/default/debug/flowmeter.o
+ .debug_abbrev  0x0000000000002722       0xac build/default/debug/i2c_ThrustFlow.o
+ .debug_abbrev  0x00000000000027ce      0x163 build/default/debug/loadcell.o
+
+.debug_line     0x0000000000000000     0x2329
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x14b C:/Users/rtavi/.mchp_packs/Microchip/ATtiny_DFP/2.6.122/xc8/avr/lib/avrxmega3/crtattiny1627.o
+ .debug_line    0x000000000000014b      0x177 build/default/debug/mcc_generated_files/src/cpuint.o
+ .debug_line    0x00000000000002c2      0x3a2 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .debug_line    0x0000000000000664       0x66 build/default/debug/mcc_generated_files/src/protected_io.o
+ .debug_line    0x00000000000006ca      0x21b build/default/debug/mcc_generated_files/src/tcb0.o
+ .debug_line    0x00000000000008e5      0x3f9 build/default/debug/mcc_generated_files/src/tca0.o
+ .debug_line    0x0000000000000cde      0x620 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .debug_line    0x00000000000012fe      0x428 build/default/debug/mcc_generated_files/src/adc0.o
+ .debug_line    0x0000000000001726       0xf9 build/default/debug/mcc_generated_files/src/vref.o
+ .debug_line    0x000000000000181f       0xdc build/default/debug/mcc_generated_files/device_config.o
+ .debug_line    0x00000000000018fb      0x2df build/default/debug/mcc_generated_files/mcc.o
+ .debug_line    0x0000000000001bda      0x182 build/default/debug/main.o
+ .debug_line    0x0000000000001d5c      0x29a build/default/debug/flowmeter.o
+ .debug_line    0x0000000000001ff6      0x13b build/default/debug/i2c_ThrustFlow.o
+ .debug_line    0x0000000000002131      0x1f8 build/default/debug/loadcell.o
+
+.debug_frame    0x0000000000000000      0xc38
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x24 build/default/debug/mcc_generated_files/src/cpuint.o
+ .debug_frame   0x0000000000000024      0x198 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .debug_frame   0x00000000000001bc       0xc4 build/default/debug/mcc_generated_files/src/tcb0.o
+ .debug_frame   0x0000000000000280      0x2c4 build/default/debug/mcc_generated_files/src/tca0.o
+ .debug_frame   0x0000000000000544      0x2ac build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .debug_frame   0x00000000000007f0      0x1e0 build/default/debug/mcc_generated_files/src/adc0.o
+ .debug_frame   0x00000000000009d0       0x24 build/default/debug/mcc_generated_files/src/vref.o
+ .debug_frame   0x00000000000009f4       0x84 build/default/debug/mcc_generated_files/mcc.o
+ .debug_frame   0x0000000000000a78       0x24 build/default/debug/main.o
+ .debug_frame   0x0000000000000a9c       0x84 build/default/debug/flowmeter.o
+ .debug_frame   0x0000000000000b20       0x54 build/default/debug/i2c_ThrustFlow.o
+ .debug_frame   0x0000000000000b74       0xc4 build/default/debug/loadcell.o
+
+.debug_str      0x0000000000000000      0xcc9
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0xad0 C:/Users/rtavi/.mchp_packs/Microchip/ATtiny_DFP/2.6.122/xc8/avr/lib/avrxmega3/crtattiny1627.o
+ .debug_str     0x0000000000000ad0       0x13 build/default/debug/mcc_generated_files/src/cpuint.o
+ .debug_str     0x0000000000000ae3       0x25 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .debug_str     0x0000000000000b08        0x0 build/default/debug/mcc_generated_files/src/tcb0.o
+ .debug_str     0x0000000000000b08       0x52 build/default/debug/mcc_generated_files/src/tca0.o
+ .debug_str     0x0000000000000b5a        0x8 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .debug_str     0x0000000000000b62       0x11 build/default/debug/mcc_generated_files/src/adc0.o
+ .debug_str     0x0000000000000b73        0x0 build/default/debug/mcc_generated_files/src/vref.o
+ .debug_str     0x0000000000000b73        0x0 build/default/debug/mcc_generated_files/device_config.o
+ .debug_str     0x0000000000000b73       0xa2 build/default/debug/mcc_generated_files/mcc.o
+ .debug_str     0x0000000000000c15       0x5d build/default/debug/main.o
+ .debug_str     0x0000000000000c72       0x1f build/default/debug/flowmeter.o
+ .debug_str     0x0000000000000c91       0x15 build/default/debug/i2c_ThrustFlow.o
+ .debug_str     0x0000000000000ca6       0x23 build/default/debug/loadcell.o
+
+.debug_loc      0x0000000000000000      0x5f9
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0x2a build/default/debug/mcc_generated_files/src/cpuint.o
+ .debug_loc     0x000000000000002a       0x36 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .debug_loc     0x0000000000000060       0x8a build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .debug_loc     0x00000000000000ea      0x17c build/default/debug/mcc_generated_files/src/adc0.o
+ .debug_loc     0x0000000000000266      0x148 build/default/debug/mcc_generated_files/mcc.o
+ .debug_loc     0x00000000000003ae       0x48 build/default/debug/main.o
+ .debug_loc     0x00000000000003f6       0x48 build/default/debug/flowmeter.o
+ .debug_loc     0x000000000000043e      0x1bb build/default/debug/loadcell.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x4c8
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x10 build/default/debug/mcc_generated_files/src/cpuint.o
+ .debug_ranges  0x0000000000000010       0xa0 build/default/debug/mcc_generated_files/src/pin_manager.o
+ .debug_ranges  0x00000000000000b0       0x60 build/default/debug/mcc_generated_files/src/tcb0.o
+ .debug_ranges  0x0000000000000110       0xd0 build/default/debug/mcc_generated_files/src/tca0.o
+ .debug_ranges  0x00000000000001e0      0x130 build/default/debug/mcc_generated_files/src/twi0_slave.o
+ .debug_ranges  0x0000000000000310       0xd0 build/default/debug/mcc_generated_files/src/adc0.o
+ .debug_ranges  0x00000000000003e0       0x10 build/default/debug/mcc_generated_files/src/vref.o
+ .debug_ranges  0x00000000000003f0       0x38 build/default/debug/mcc_generated_files/mcc.o
+ .debug_ranges  0x0000000000000428       0x10 build/default/debug/main.o
+ .debug_ranges  0x0000000000000438       0x40 build/default/debug/flowmeter.o
+ .debug_ranges  0x0000000000000478       0x28 build/default/debug/i2c_ThrustFlow.o
+ .debug_ranges  0x00000000000004a0       0x28 build/default/debug/loadcell.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/default/debug/Thrust_Flow.X.debug.elf elf32-avr)
+LOAD linker stubs
+LOAD data_init
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40 C:/Users/rtavi/.mchp_packs/Microchip/ATtiny_DFP/2.6.122/xc8/avr/lib/avrxmega3/crtattiny1627.o
+
+.bss.PORTB_PB0_InterruptHandler
+                0x0000000000803831        0x2
+ .bss.PORTB_PB0_InterruptHandler
+                0x0000000000803831        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+
+.bss.PORTB_PB1_InterruptHandler
+                0x0000000000803833        0x2
+ .bss.PORTB_PB1_InterruptHandler
+                0x0000000000803833        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+
+.bss.PORTB_PB4_InterruptHandler
+                0x0000000000803835        0x2
+ .bss.PORTB_PB4_InterruptHandler
+                0x0000000000803835        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+
+.bss.y          0x000000000080383f        0x2
+ .bss.y         0x000000000080383f        0x2 build/default/debug/i2c_ThrustFlow.o
+                0x000000000080383f                y
+
+.text.set_preloading
+                0x00000000000000de       0xfe
+ .text.set_preloading
+                0x00000000000000de       0xfe build/default/debug/loadcell.o
+                0x00000000000000de                set_preloading
+
+.text.avrlibc.fplib
+                0x00000000000001dc       0xde
+ .text.avrlibc.fplib
+                0x00000000000001dc       0xde c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3x.o)
+                0x00000000000001dc                __divsf3x
+                0x0000000000000204                __divsf3_pse
+
+.text.avrlibc.fplib
+                0x00000000000002ba       0xd4
+ .text.avrlibc.fplib
+                0x00000000000002ba       0xd4 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3x.o)
+                0x00000000000002ba                __mulsf3x
+                0x00000000000002e0                __mulsf3_pse
+
+.text.avrlibc.fplib
+                0x000000000000038e       0xce
+ .text.avrlibc.fplib
+                0x000000000000038e       0xce c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3x.o)
+                0x000000000000038e                __addsf3x
+
+.text.PIN_MANAGER_Initialize
+                0x000000000000045c       0xb2
+ .text.PIN_MANAGER_Initialize
+                0x000000000000045c       0xb2 build/default/debug/mcc_generated_files/src/pin_manager.o
+                0x000000000000045c                PIN_MANAGER_Initialize
+
+.text.__vector_14
+                0x000000000000050e       0xa8
+ .text.__vector_14
+                0x000000000000050e       0xa8 build/default/debug/mcc_generated_files/src/twi0_slave.o
+                0x000000000000050e                __vector_14
+
+.text.main      0x00000000000005b6       0x8a
+ .text.main     0x00000000000005b6       0x8a build/default/debug/main.o
+                0x00000000000005b6                main
+
+.text.measure_flow
+                0x0000000000000640       0x8a
+ .text.measure_flow
+                0x0000000000000640       0x8a build/default/debug/flowmeter.o
+                0x0000000000000640                measure_flow
+
+.text.avrlibc.fplib
+                0x00000000000006ca       0x7a
+ .text.avrlibc.fplib
+                0x00000000000006ca       0x7a c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(floatsisf.o)
+                0x00000000000006ca                __floatunsisf
+                0x00000000000006ce                __floatsisf
+
+.text.get_thrust
+                0x0000000000000744       0x78
+ .text.get_thrust
+                0x0000000000000744       0x78 build/default/debug/loadcell.o
+                0x0000000000000744                get_thrust
+
+.text.__vector_7
+                0x00000000000007bc       0x72
+ .text.__vector_7
+                0x00000000000007bc       0x72 build/default/debug/mcc_generated_files/src/pin_manager.o
+                0x00000000000007bc                __vector_7
+
+.text.__vector_10
+                0x000000000000082e       0x58
+ .text.__vector_10
+                0x000000000000082e       0x58 build/default/debug/mcc_generated_files/src/tca0.o
+                0x000000000000082e                __vector_10
+
+.text.__vector_11
+                0x0000000000000886       0x58
+ .text.__vector_11
+                0x0000000000000886       0x58 build/default/debug/mcc_generated_files/src/tca0.o
+                0x0000000000000886                __vector_11
+
+.text.__vector_12
+                0x00000000000008de       0x58
+ .text.__vector_12
+                0x00000000000008de       0x58 build/default/debug/mcc_generated_files/src/tca0.o
+                0x00000000000008de                __vector_12
+
+.text.__vector_8
+                0x0000000000000936       0x58
+ .text.__vector_8
+                0x0000000000000936       0x58 build/default/debug/mcc_generated_files/src/tca0.o
+                0x0000000000000936                __vector_8
+
+.text.I2C0_Initialize
+                0x000000000000098e       0x58
+ .text.I2C0_Initialize
+                0x000000000000098e       0x58 build/default/debug/mcc_generated_files/src/twi0_slave.o
+                0x000000000000098e                I2C0_Initialize
+
+.text.ADC_SetVREF
+                0x00000000000009e6       0x50
+ .text.ADC_SetVREF
+                0x00000000000009e6       0x50 build/default/debug/loadcell.o
+                0x00000000000009e6                ADC_SetVREF
+
+.text.send_data
+                0x0000000000000a36       0x4e
+ .text.send_data
+                0x0000000000000a36       0x4e build/default/debug/i2c_ThrustFlow.o
+                0x0000000000000a36                send_data
+
+.text.CLKCTRL_Initialize
+                0x0000000000000a84       0x4c
+ .text.CLKCTRL_Initialize
+                0x0000000000000a84       0x4c build/default/debug/mcc_generated_files/mcc.o
+                0x0000000000000a84                CLKCTRL_Initialize
+
+.text.avrlibc.fplib
+                0x0000000000000ad0       0x48
+ .text.avrlibc.fplib
+                0x0000000000000ad0       0x48 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_cmp.o)
+                0x0000000000000ad0                __fp_cmp
+
+.text.avrlibc.fplib
+                0x0000000000000b18       0x44
+ .text.avrlibc.fplib
+                0x0000000000000b18       0x44 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_split3.o)
+                0x0000000000000b18                __fp_split3
+                0x0000000000000b28                __fp_splitA
+
+.text.TCA0_Initialize
+                0x0000000000000b5c       0x3e
+ .text.TCA0_Initialize
+                0x0000000000000b5c       0x3e build/default/debug/mcc_generated_files/src/tca0.o
+                0x0000000000000b5c                TCA0_Initialize
+
+.text.get_measurement
+                0x0000000000000b9a       0x3c
+ .text.get_measurement
+                0x0000000000000b9a       0x3c build/default/debug/loadcell.o
+                0x0000000000000b9a                get_measurement
+
+.text.ADC0_Initialize
+                0x0000000000000bd6       0x3a
+ .text.ADC0_Initialize
+                0x0000000000000bd6       0x3a build/default/debug/mcc_generated_files/src/adc0.o
+                0x0000000000000bd6                ADC0_Initialize
+
+.text.ADC0_GetDiffConversion
+                0x0000000000000c10       0x3a
+ .text.ADC0_GetDiffConversion
+                0x0000000000000c10       0x3a build/default/debug/mcc_generated_files/src/adc0.o
+                0x0000000000000c10                ADC0_GetDiffConversion
+
+.text.PORT_Initialize
+                0x0000000000000c4a       0x38
+ .text.PORT_Initialize
+                0x0000000000000c4a       0x38 build/default/debug/mcc_generated_files/src/pin_manager.o
+                0x0000000000000c4a                PORT_Initialize
+
+.text.flowmeter_init
+                0x0000000000000c82       0x38
+ .text.flowmeter_init
+                0x0000000000000c82       0x38 build/default/debug/flowmeter.o
+                0x0000000000000c82                flowmeter_init
+
+.text.__vector_21
+                0x0000000000000cba       0x30
+ .text.__vector_21
+                0x0000000000000cba       0x30 build/default/debug/mcc_generated_files/src/adc0.o
+                0x0000000000000cba                __vector_21
+
+.text.SYSTEM_Initialize
+                0x0000000000000cea       0x2a
+ .text.SYSTEM_Initialize
+                0x0000000000000cea       0x2a build/default/debug/mcc_generated_files/mcc.o
+                0x0000000000000cea                SYSTEM_Initialize
+
+.text.write_float
+                0x0000000000000d14       0x28
+ .text.write_float
+                0x0000000000000d14       0x28 build/default/debug/i2c_ThrustFlow.o
+                0x0000000000000d14                write_float
+
+.text.TCB0_Initialize
+                0x0000000000000d3c       0x24
+ .text.TCB0_Initialize
+                0x0000000000000d3c       0x24 build/default/debug/mcc_generated_files/src/tcb0.o
+                0x0000000000000d3c                TCB0_Initialize
+
+.text.avrlibc.fplib
+                0x0000000000000d60       0x22
+ .text.avrlibc.fplib
+                0x0000000000000d60       0x22 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_round.o)
+                0x0000000000000d60                __fp_round
+
+.text.__vector_23
+                0x0000000000000d82       0x1e
+ .text.__vector_23
+                0x0000000000000d82       0x1e build/default/debug/mcc_generated_files/src/adc0.o
+                0x0000000000000d82                __vector_23
+
+.text.__vector_22
+                0x0000000000000da0       0x1e
+ .text.__vector_22
+                0x0000000000000da0       0x1e build/default/debug/mcc_generated_files/src/adc0.o
+                0x0000000000000da0                __vector_22
+
+.text.__vector_2
+                0x0000000000000dbe       0x1e
+ .text.__vector_2
+                0x0000000000000dbe       0x1e build/default/debug/mcc_generated_files/mcc.o
+                0x0000000000000dbe                __vector_2
+
+.text.CPUINT_Initialize
+                0x0000000000000ddc       0x1a
+ .text.CPUINT_Initialize
+                0x0000000000000ddc       0x1a build/default/debug/mcc_generated_files/src/cpuint.o
+                0x0000000000000ddc                CPUINT_Initialize
+
+.text.I2C0_SlaveIsStopInterrupt
+                0x0000000000000df6       0x18
+ .text.I2C0_SlaveIsStopInterrupt
+                0x0000000000000df6       0x18 build/default/debug/mcc_generated_files/src/twi0_slave.o
+                0x0000000000000df6                I2C0_SlaveIsStopInterrupt
+
+.text.BOD_Initialize
+                0x0000000000000e0e       0x18
+ .text.BOD_Initialize
+                0x0000000000000e0e       0x18 build/default/debug/mcc_generated_files/mcc.o
+                0x0000000000000e0e                BOD_Initialize
+
+.text.I2C0_SlaveIsAddressInterrupt
+                0x0000000000000e26       0x16
+ .text.I2C0_SlaveIsAddressInterrupt
+                0x0000000000000e26       0x16 build/default/debug/mcc_generated_files/src/twi0_slave.o
+                0x0000000000000e26                I2C0_SlaveIsAddressInterrupt
+
+.text.I2C0_SlaveIsTxComplete
+                0x0000000000000e3c       0x14
+ .text.I2C0_SlaveIsTxComplete
+                0x0000000000000e3c       0x14 build/default/debug/mcc_generated_files/src/twi0_slave.o
+                0x0000000000000e3c                I2C0_SlaveIsTxComplete
+
+.text.I2C0_SlaveReset
+                0x0000000000000e50       0x12
+ .text.I2C0_SlaveReset
+                0x0000000000000e50       0x12 build/default/debug/mcc_generated_files/src/twi0_slave.o
+                0x0000000000000e50                I2C0_SlaveReset
+
+.text.get_flow  0x0000000000000e62       0x12
+ .text.get_flow
+                0x0000000000000e62       0x12 build/default/debug/flowmeter.o
+                0x0000000000000e62                get_flow
+
+.text.I2C0_ReadCallback
+                0x0000000000000e74       0x10
+ .text.I2C0_ReadCallback
+                0x0000000000000e74       0x10 build/default/debug/mcc_generated_files/src/twi0_slave.o
+                0x0000000000000e74                I2C0_ReadCallback
+
+.text.I2C0_WriteCallback
+                0x0000000000000e84       0x10
+ .text.I2C0_WriteCallback
+                0x0000000000000e84       0x10 build/default/debug/mcc_generated_files/src/twi0_slave.o
+                0x0000000000000e84                I2C0_WriteCallback
+
+.text.I2C0_AddressCallback
+                0x0000000000000e94       0x10
+ .text.I2C0_AddressCallback
+                0x0000000000000e94       0x10 build/default/debug/mcc_generated_files/src/twi0_slave.o
+                0x0000000000000e94                I2C0_AddressCallback
+
+.text.I2C0_StopCallback
+                0x0000000000000ea4       0x10
+ .text.I2C0_StopCallback
+                0x0000000000000ea4       0x10 build/default/debug/mcc_generated_files/src/twi0_slave.o
+                0x0000000000000ea4                I2C0_StopCallback
+
+.text.I2C0_SlaveWrite
+                0x0000000000000eb4       0x10
+ .text.I2C0_SlaveWrite
+                0x0000000000000eb4       0x10 build/default/debug/mcc_generated_files/src/twi0_slave.o
+                0x0000000000000eb4                I2C0_SlaveWrite
+
+.text.ADC0_StartDiffConversion
+                0x0000000000000ec4       0x10
+ .text.ADC0_StartDiffConversion
+                0x0000000000000ec4       0x10 build/default/debug/mcc_generated_files/src/adc0.o
+                0x0000000000000ec4                ADC0_StartDiffConversion
+
+.text.SLPCTRL_Initialize
+                0x0000000000000ed4       0x10
+ .text.SLPCTRL_Initialize
+                0x0000000000000ed4       0x10 build/default/debug/mcc_generated_files/mcc.o
+                0x0000000000000ed4                SLPCTRL_Initialize
+
+.text.clear     0x0000000000000ee4        0xe
+ .text.clear    0x0000000000000ee4        0xe build/default/debug/i2c_ThrustFlow.o
+                0x0000000000000ee4                clear
+
+.text.avrlibc.fplib
+                0x0000000000000ef2        0xe
+ .text.avrlibc.fplib
+                0x0000000000000ef2        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(addsf3.o)
+                0x0000000000000ef2                __subsf3
+                0x0000000000000ef4                __addsf3
+
+.text.avrlibc.fplib
+                0x0000000000000f00        0xe
+ .text.avrlibc.fplib
+                0x0000000000000f00        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscA.o)
+                0x0000000000000f00                __fp_pscA
+
+.text.avrlibc.fplib
+                0x0000000000000f0e        0xe
+ .text.avrlibc.fplib
+                0x0000000000000f0e        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_pscB.o)
+                0x0000000000000f0e                __fp_pscB
+
+.text.avrlibc.fplib
+                0x0000000000000f1c        0xe
+ .text.avrlibc.fplib
+                0x0000000000000f1c        0xe c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_zero.o)
+                0x0000000000000f1c                __fp_zero
+                0x0000000000000f1e                __fp_szero
+
+.text.I2C0_SlaveIsDataInterrupt
+                0x0000000000000f2a        0xc
+ .text.I2C0_SlaveIsDataInterrupt
+                0x0000000000000f2a        0xc build/default/debug/mcc_generated_files/src/twi0_slave.o
+                0x0000000000000f2a                I2C0_SlaveIsDataInterrupt
+
+.text.VREF_Initialize
+                0x0000000000000f36        0xc
+ .text.VREF_Initialize
+                0x0000000000000f36        0xc build/default/debug/mcc_generated_files/src/vref.o
+                0x0000000000000f36                VREF_Initialize
+
+.text.avrlibc.fplib
+                0x0000000000000f42        0xc
+ .text.avrlibc.fplib
+                0x0000000000000f42        0xc c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_inf.o)
+                0x0000000000000f42                __fp_inf
+
+.text.TCB0_WriteTimer
+                0x0000000000000f4e        0xa
+ .text.TCB0_WriteTimer
+                0x0000000000000f4e        0xa build/default/debug/mcc_generated_files/src/tcb0.o
+                0x0000000000000f4e                TCB0_WriteTimer
+
+.text.I2C0_SlaveDIR
+                0x0000000000000f58        0xa
+ .text.I2C0_SlaveDIR
+                0x0000000000000f58        0xa build/default/debug/mcc_generated_files/src/twi0_slave.o
+                0x0000000000000f58                I2C0_SlaveDIR
+
+.text.I2C0_SlaveIsNack
+                0x0000000000000f62        0xa
+ .text.I2C0_SlaveIsNack
+                0x0000000000000f62        0xa build/default/debug/mcc_generated_files/src/twi0_slave.o
+                0x0000000000000f62                I2C0_SlaveIsNack
+
+.text.read_reg  0x0000000000000f6c        0xa
+ .text.read_reg
+                0x0000000000000f6c        0xa build/default/debug/i2c_ThrustFlow.o
+                0x0000000000000f6c                read_reg
+
+.text.avrlibc.fplib
+                0x0000000000000f76        0xa
+ .text.avrlibc.fplib
+                0x0000000000000f76        0xa c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(cmpsf2.o)
+                0x0000000000000f76                __nesf2
+                0x0000000000000f76                __eqsf2
+                0x0000000000000f76                __cmpsf2
+                0x0000000000000f76                __ltsf2
+                0x0000000000000f76                __lesf2
+
+.text.protected_write_io
+                0x0000000000000f80        0x8
+ .text.protected_write_io
+                0x0000000000000f80        0x8 build/default/debug/mcc_generated_files/src/protected_io.o
+                0x0000000000000f80                protected_write_io
+
+.text.ADC0_IsConversionDone
+                0x0000000000000f88        0x8
+ .text.ADC0_IsConversionDone
+                0x0000000000000f88        0x8 build/default/debug/mcc_generated_files/src/adc0.o
+                0x0000000000000f88                ADC0_IsConversionDone
+
+.text.avrlibc.fplib
+                0x0000000000000f90        0x8
+ .text.avrlibc.fplib
+                0x0000000000000f90        0x8 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(divsf3.o)
+                0x0000000000000f90                __divsf3
+
+.text.avrlibc.fplib
+                0x0000000000000f98        0x8
+ .text.avrlibc.fplib
+                0x0000000000000f98        0x8 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(mulsf3.o)
+                0x0000000000000f98                __mulsf3
+
+.text.I2C0_Read
+                0x0000000000000fa0        0x6
+ .text.I2C0_Read
+                0x0000000000000fa0        0x6 build/default/debug/mcc_generated_files/src/twi0_slave.o
+                0x0000000000000fa0                I2C0_Read
+
+.text.I2C0_Write
+                0x0000000000000fa6        0x6
+ .text.I2C0_Write
+                0x0000000000000fa6        0x6 build/default/debug/mcc_generated_files/src/twi0_slave.o
+                0x0000000000000fa6                I2C0_Write
+
+.text.I2C0_GotoUnaddressed
+                0x0000000000000fac        0x6
+ .text.I2C0_GotoUnaddressed
+                0x0000000000000fac        0x6 build/default/debug/mcc_generated_files/src/twi0_slave.o
+                0x0000000000000fac                I2C0_GotoUnaddressed
+
+.text.avrlibc.fplib
+                0x0000000000000fb2        0x6
+ .text.avrlibc.fplib
+                0x0000000000000fb2        0x6 c:/program files/microchip/xc8/v2.32/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a(fp_nan.o)
+                0x0000000000000fb2                __fp_nan
+
+.text           0x0000000000000fb8        0x4
+ .text          0x0000000000000fb8        0x4 C:/Users/rtavi/.mchp_packs/Microchip/ATtiny_DFP/2.6.122/xc8/avr/lib/avrxmega3/crtattiny1627.o
+                0x0000000000000fb8                __vector_28
+                0x0000000000000fb8                __vector_1
+                0x0000000000000fb8                __vector_24
+                0x0000000000000fb8                __bad_interrupt
+                0x0000000000000fb8                __vector_6
+                0x0000000000000fb8                __vector_3
+                0x0000000000000fb8                __vector_25
+                0x0000000000000fb8                __vector_13
+                0x0000000000000fb8                __vector_17
+                0x0000000000000fb8                __vector_19
+                0x0000000000000fb8                __vector_27
+                0x0000000000000fb8                __vector_5
+                0x0000000000000fb8                __vector_4
+                0x0000000000000fb8                __vector_9
+                0x0000000000000fb8                __vector_15
+                0x0000000000000fb8                __vector_29
+                0x0000000000000fb8                __vector_26
+                0x0000000000000fb8                __vector_16
+                0x0000000000000fb8                __vector_18
+                0x0000000000000fb8                __vector_20
+
+.text.PORTB_PB4_DefaultInterruptHandler
+                0x0000000000000fbc        0x2
+ .text.PORTB_PB4_DefaultInterruptHandler
+                0x0000000000000fbc        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+                0x0000000000000fbc                PORTB_PB4_DefaultInterruptHandler
+
+.text.PORTB_PB1_DefaultInterruptHandler
+                0x0000000000000fbe        0x2
+ .text.PORTB_PB1_DefaultInterruptHandler
+                0x0000000000000fbe        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+                0x0000000000000fbe                PORTB_PB1_DefaultInterruptHandler
+
+.text.PORTB_PB0_DefaultInterruptHandler
+                0x0000000000000fc0        0x2
+ .text.PORTB_PB0_DefaultInterruptHandler
+                0x0000000000000fc0        0x2 build/default/debug/mcc_generated_files/src/pin_manager.o
+                0x0000000000000fc0                PORTB_PB0_DefaultInterruptHandler
+
+.text.TCA0_DefaultCMP0IsrCallback
+                0x0000000000000fc2        0x2
+ .text.TCA0_DefaultCMP0IsrCallback
+                0x0000000000000fc2        0x2 build/default/debug/mcc_generated_files/src/tca0.o
+                0x0000000000000fc2                TCA0_DefaultCMP0IsrCallback
+
+.text.TCA0_DefaultCMP1IsrCallback
+                0x0000000000000fc4        0x2
+ .text.TCA0_DefaultCMP1IsrCallback
+                0x0000000000000fc4        0x2 build/default/debug/mcc_generated_files/src/tca0.o
+                0x0000000000000fc4                TCA0_DefaultCMP1IsrCallback
+
+.text.TCA0_DefaultCMP2IsrCallback
+                0x0000000000000fc6        0x2
+ .text.TCA0_DefaultCMP2IsrCallback
+                0x0000000000000fc6        0x2 build/default/debug/mcc_generated_files/src/tca0.o
+                0x0000000000000fc6                TCA0_DefaultCMP2IsrCallback
+
+.text.TCA0_DefaultOVFIsrCallback
+                0x0000000000000fc8        0x2
+ .text.TCA0_DefaultOVFIsrCallback
+                0x0000000000000fc8        0x2 build/default/debug/mcc_generated_files/src/tca0.o
+                0x0000000000000fc8                TCA0_DefaultOVFIsrCallback
+
+.data.TCA0_OVF_isr_cb
+                0x0000000000803837        0x2 load address 0x0000000000000fca
+ .data.TCA0_OVF_isr_cb
+                0x0000000000803837        0x2 build/default/debug/mcc_generated_files/src/tca0.o
+                0x0000000000803837                TCA0_OVF_isr_cb
+
+.data.TCA0_CMP2_isr_cb
+                0x0000000000803839        0x2 load address 0x0000000000000fcc
+ .data.TCA0_CMP2_isr_cb
+                0x0000000000803839        0x2 build/default/debug/mcc_generated_files/src/tca0.o
+                0x0000000000803839                TCA0_CMP2_isr_cb
+
+.data.TCA0_CMP1_isr_cb
+                0x000000000080383b        0x2 load address 0x0000000000000fce
+ .data.TCA0_CMP1_isr_cb
+                0x000000000080383b        0x2 build/default/debug/mcc_generated_files/src/tca0.o
+                0x000000000080383b                TCA0_CMP1_isr_cb
+
+.data.TCA0_CMP0_isr_cb
+                0x000000000080383d        0x2 load address 0x0000000000000fd0
+ .data.TCA0_CMP0_isr_cb
+                0x000000000080383d        0x2 build/default/debug/mcc_generated_files/src/tca0.o
+                0x000000000080383d                TCA0_CMP0_isr_cb
