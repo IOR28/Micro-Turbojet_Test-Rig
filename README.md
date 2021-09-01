@@ -7,16 +7,16 @@ Different parts of the test rig design where explored during the project, these 
 
 ### Contents
 
-+ [StructureDesign](#-structuredesign---structuredesign-): Autodesk Inventor project
++ [StructureDesign](#structuredesign): Autodesk Inventor project
 	+ Bellmouth: Parts, drawings and final files
 	+ CommercialParts
 	+ DesignedParts: Parts and drawings
-+ [DataAcquisitionMCs](#-dataacquisitionmcs---dataacquisitionmcs-): MPLAB X projects
++ [DataAcquisitionMCs](#dataacquisitionmcs): MPLAB X projects
 	+ Pressure
 	+ Temperature
 	+ Thrust_Flow
-+ [DataProcessingMaster](#-dataprocessingmaster---dataprocessingmaster-): Python files and classes
-+ [PCBDesigns](#-pcbdesigns---pcbdesigns-): Autodesk Eagle projects
++ [DataProcessingMaster](#dataprocessingmaster): Python files and classes
++ [PCBDesigns](#pcbdesigns): Autodesk Eagle projects
 	+ RTD_conditioning
 	+ System_control
 	+ General_board
