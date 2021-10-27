@@ -35,7 +35,7 @@ print("Initializing...")
 T_data = .5 #standard: 500ms
 
 #where to send data? can be both or none
-toDB = False
+toDB = True
 toConsole = True
 
 if (toDB):
@@ -82,11 +82,11 @@ if (toDB):
 ##########------MEASUREMENTS------##########
 print("Measuring...")
 if (toConsole): #print header
-	data = ('Thrust', 'FuelFlow', 'Tt0', 'Pt0', 'AirFlow', 'Tt3', 'Pt3', 'Tt4', 'Pt4', 'Tt5', 'Pt5', 'P9')
+	data = ('Time', 'Thrust', 'FuelFlow', 'Tt0', 'Pt0', 'AirFlow', 'Tt3', 'Pt3', 'Tt4', 'Pt4', 'Tt5', 'Pt5', 'P9')
 	row_format = '{:^15}' * (len(data))
-	print('-'*185)
+	print('-'*200)
 	print(row_format.format(*data))
-	print('-'*185)
+	print('-'*200)
 
 #Begin measuring
 ctrl.measuring() #green LED on = measuring
@@ -114,7 +114,7 @@ while ctrl.Ongoing_test:
 	
 	#process data
 	if (toConsole): #print them on console
-		print(row_format.format(*strgs))
+		print(row_format.format(t, *strgs))
 	if (toDB): #send data through pipe, DB_controller will pick them
 		values = decode_floats(strgs) #strings to floats
 		main_conn.send((t,) + values) #time stamp it before sending to DB

@@ -58,7 +58,7 @@ class TurbojetDB:
 		ins = 'INSERT INTO TurbojetTests.' + self.Table + names + ' VALUES ' + format
 		
 		with connect_TurbojetTests() as cursor:
-			cursor.execute(ins, values)
+			cursor.executemany(ins, values)
 
 	def fetch_table(self): #return the table from the DB
 		query = "SELECT * FROM TurbojetTests." + self.Table + ";"
